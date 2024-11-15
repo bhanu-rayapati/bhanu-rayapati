@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @bhanu-rayapati
-- 👀 I’m interested in JavaScript, React.js, Playwright and many more....
-- 📫 Reach me @ - bhanurayapati9@gmail.com
+- 👋 Hi, I’m **@bhanu-rayapati**  
+- 👀 Passionate about **JavaScript**, **React.js**, **Playwright**, and more.  
+- 📫 Contact me at **bhanurayapati9@gmail.com**  
+- 🚀 Check out my new **Playwright JavaScript Custom Framework**!  
